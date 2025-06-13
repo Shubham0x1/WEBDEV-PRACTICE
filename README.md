@@ -13,8 +13,10 @@ A collection of frontend mini-projects using HTML, CSS, and JavaScript.
 - Built with HTML & JavaScript.
 - Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/Real_Time_Weather_Application/)
 
-### 🚗 Car Animated
-- Animated car with rotating wheels and background using CSS and JavaScript.
-- Sound added on user interaction.
-- Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/Car%20Aminated/)
+### 🚗 Car Animation
+- A fun animated car created using HTML, CSS, and JavaScript.
+- Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/car-animated/)
 
+### ✊ Rock Paper Scissor Game
+- A classic Rock Paper Scissor game built with HTML, CSS, and JS.
+- Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/ROCK_PAPER_SCISSOR_GAME/)
