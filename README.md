@@ -16,5 +16,5 @@ A collection of frontend mini-projects using HTML, CSS, and JavaScript.
 ### 🚗 Car Animated
 - Animated car with rotating wheels and background using CSS and JavaScript.
 - Sound added on user interaction.
-- Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/)
+- Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/Car Animated/)
 
