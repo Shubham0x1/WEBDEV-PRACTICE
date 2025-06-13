@@ -12,3 +12,9 @@ A collection of frontend mini-projects using HTML, CSS, and JavaScript.
 - Fetches live weather using an API.
 - Built with HTML & JavaScript.
 - Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/Real_Time_Weather_Application/)
+
+### 🚗 Car Animated
+- Animated car with rotating wheels and background using CSS and JavaScript.
+- Sound added on user interaction.
+- Live Preview: [View Here](https://shubham0x1.github.io/WEBDEV-PRACTICE/car animated/)
+
