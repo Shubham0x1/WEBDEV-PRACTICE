@@ -15,7 +15,7 @@ This project allows users to **increase, decrease, and reset a counter value** d
 
 The **Counter Webpage** is a beginner-friendly JavaScript project that demonstrates how web pages can respond to user interactions. The application displays a number (starting from 0) and allows users to modify it using buttons. :contentReference[oaicite:0]{index=0}
 
-This type of project helps beginners understand how **HTML, CSS, and JavaScript work together to create interactive web applications**. :contentReference[oaicite:1]{index=1}
+This type of project helps beginners understand how **HTML, CSS, and JavaScript work together to create interactive web applications**.
 
 ---
 
