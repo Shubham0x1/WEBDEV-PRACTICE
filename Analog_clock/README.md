@@ -38,7 +38,7 @@ This project helps developers understand **JavaScript timing functions, DOM mani
 - **CSS3** → Styling and layout
 - **JavaScript (Vanilla JS)** → Logic to update clock hands in real time
 
-JavaScript calculates the rotation angles for each clock hand and updates them every second to show the current time. :contentReference[oaicite:1]{index=1}  
+JavaScript calculates the rotation angles for each clock hand and updates them every second to show the current time.
 
 ---
 
