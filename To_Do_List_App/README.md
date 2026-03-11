@@ -30,12 +30,13 @@ This project helps users manage their daily tasks efficiently by allowing them t
 ---
 
 # 📂 Project Structure
+```
 To_Do_List_App
 │
 ├── index.html # Main HTML file
 ├── style.css # Styling for the application
 └── script.js # JavaScript functionality
-
+```
 ---
 # ⚙️ How It Works
 
