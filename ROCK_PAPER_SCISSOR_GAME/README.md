@@ -20,7 +20,7 @@ Each option defeats one of the others:
 - Scissors cut Paper
 - Paper covers Rock
 
-The game compares the player's choice with a **random computer choice** and displays the result. :contentReference[oaicite:0]{index=0}
+The game compares the player's choice with a **random computer choice** and displays the result.
 
 ---
 
