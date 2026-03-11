@@ -80,7 +80,7 @@ Possible enhancements for this project:
 
 # 👨‍💻 Author
 
-**Shubham**
+**Shubham Gusain**
 
 GitHub:  
 https://github.com/Shubham0x1
