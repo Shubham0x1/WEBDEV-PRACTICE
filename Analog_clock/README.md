@@ -97,27 +97,3 @@ https://github.com/Shubham0x1
 # ⭐ Support
 
 If you like this project, consider giving the repository a **star ⭐**.
-
-✅ Now your WEBDEV-PRACTICE repo already has many good projects, like:
-
-Calculator
-
-BMI Calculator
-
-Analog Clock
-
-Digital Clock
-
-Currency Converter
-
-Rock Paper Scissors
-
-To-Do List
-
-Counter
-
-Color Flipper
-
-Car Animation
-
-If you want, I can also create one MASTER README for the whole repo with all live demo links in a table (very impressive for recruiters and GitHub profile).
