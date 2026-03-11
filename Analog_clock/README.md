@@ -16,7 +16,7 @@ This project displays the **current system time in real-time using an analog clo
 The **Analog Clock project** replicates the functionality of a traditional clock on a web page.  
 It dynamically updates the **hour, minute, and second hands** using JavaScript to reflect the current system time.
 
-An analog clock typically consists of three hands that rotate around a circular dial to represent hours, minutes, and seconds. :contentReference[oaicite:0]{index=0}  
+An analog clock typically consists of three hands that rotate around a circular dial to represent hours, minutes, and seconds.
 
 This project helps developers understand **JavaScript timing functions, DOM manipulation, and CSS transformations**.
 
